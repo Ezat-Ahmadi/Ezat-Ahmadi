@@ -1,4 +1,4 @@
-[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvferep9ZLWYVo_8gZwUKbwpnz6jDF6pmuoQ&s](https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-8.gif))](https://Ezat-Ahmadi.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvferep9ZLWYVo_8gZwUKbwpnz6jDF6pmuoQ&s](https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-8.gif))](https://Ezat-Ahmadi.io)
 <h1 align="center">Hi 👋, I'm Ezatullh Ahmadi</h1>
 <img align = "right" alt = "coding" width = "400" src = "https://www.lambdatest.com/resources/images/news24.gif">
 <h3 align="center">A passionate college student from Afghanistan</h3>
