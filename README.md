@@ -1,9 +1,9 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvferep9ZLWYVo_8gZwUKbwpnz6jDF6pmuoQ&s)](https://Ezat-Ahmadi.io)
+[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvferep9ZLWYVo_8gZwUKbwpnz6jDF6pmuoQ&s](https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-8.gif))](https://Ezat-Ahmadi.io)
 <h1 align="center">Hi 👋, I'm Ezatullh Ahmadi</h1>
 <img align = "right" alt = "coding" width = "400" src = "https://www.lambdatest.com/resources/images/news24.gif">
 <h3 align="center">A passionate college student from Afghanistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezat-ahmadi" alt="ezat-ahmadi" /></a> </p>
+
 
 - 🔭 I’m currently working on [Advanced programming final project](sfjsjf)
 
@@ -15,6 +15,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezat-ahmadi" alt="ezat-ahmadi" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ezatullah ahmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezatullah ahmadi" height="30" width="40" /></a>
