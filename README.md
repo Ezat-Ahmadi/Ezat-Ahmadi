@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying computer engineering at AUT
+I am Ezatullah Ahmadi and currently studying computer engineering at AUT
 
 
 ## 🌐 Socials:
